@@ -10,12 +10,9 @@
 }
 
 .blo{
-
+    padding: 60;
     display: flex;
-    
-    width: 670px;
-    height: 670;
     justify-content: center;
     align-content: center;
-    background-color: rgb(219, 136, 27);
+    background-color: rgb(255, 255, 255);
 }

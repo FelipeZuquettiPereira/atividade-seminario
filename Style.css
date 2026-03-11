@@ -19,6 +19,16 @@
     background-color: rgb(219, 136, 27);
  
 }
+.blo2{
+    
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 20px;
+
+    background-color: rgb(179, 21, 21);
+ 
+}
 
 .quadrado{
 

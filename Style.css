@@ -6,6 +6,16 @@
     align-content: center;
     display: flex;
     padding: 10px;
-    ssasfd
+    
 }
 
+.blo{
+    padding: 60;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(219, 136, 27);
+    margin-top: 50;
+    margin-left: 600;
+    margin-right: 70;
+}

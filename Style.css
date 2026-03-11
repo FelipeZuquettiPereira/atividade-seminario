@@ -14,5 +14,8 @@
     display: flex;
     justify-content: center;
     align-content: center;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(219, 136, 27);
+    margin-top: 50;
+    margin-left: 600;
+    margin-right: 70;
 }

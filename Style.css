@@ -10,10 +10,11 @@
 }
 
 .blo{
+
     display: flex;
     
-    width: 67px;
-    height: 67;
+    width: 670px;
+    height: 670;
     justify-content: center;
     align-content: center;
     background-color: rgb(219, 136, 27);

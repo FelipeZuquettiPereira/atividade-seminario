@@ -21,7 +21,10 @@
 }
 .blo2{
     
-    display: flex;
+
+    width: 1200px;
+
+    border-radius: 20px;
     justify-content: center;
     align-content: center;
     margin: 20px;
@@ -35,4 +38,10 @@
     padding: 40px;
     margin: 10px;
     background-color: rgb(223, 79, 79);
+}
+
+.blo3{
+    align-items: center;
+    justify-content: center;
+    background-color: black;
 }

@@ -10,12 +10,19 @@
 }
 
 .blo{
-    padding: 60;
+    
     display: flex;
     justify-content: center;
     align-content: center;
+    margin: 20px;
+
     background-color: rgb(219, 136, 27);
-    margin-top: 50;
-    margin-left: 600;
-    margin-right: 70;
+ 
+}
+
+.quadrado{
+
+    padding: 40px;
+    margin: 10px;
+    background-color: rgb(223, 79, 79);
 }

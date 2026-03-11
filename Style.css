@@ -6,6 +6,15 @@
     align-items: center;
     display: flex;
     padding: 10px;
-    ssasfd
+    
 }
 
+.blo{
+    display: flex;
+    
+    width: 67px;
+    height: 67;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(219, 136, 27);
+}

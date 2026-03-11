@@ -1,0 +1,10 @@
+.rodateto{
+    background-color: aqua;
+    color: aliceblue;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+}
+

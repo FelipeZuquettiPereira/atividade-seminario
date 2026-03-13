@@ -1,6 +1,6 @@
 .rodateto{
     background-color: rgb(25, 231, 118);
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     height: 100px;
     justify-content: space-between;
     align-content: center;
@@ -14,15 +14,17 @@
     display: flex;
     justify-content: center;
     align-content: center;
-    margin: 20px;
-    border-radius: 100px;
-    background-color: rgb(51, 255, 0);
+   width: 950px;
+   padding: 20px;
+    background-color: rgb(255, 255, 255);  
+    flex-wrap: wrap;
+   
  
 }
 .blo2{
     
 
-    width: 1200px;
+    width: 1000px;
 
     border-radius: 20px;
     justify-content: center;

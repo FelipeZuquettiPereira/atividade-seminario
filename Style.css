@@ -135,7 +135,7 @@ text-align: left;
     
 }
 
-.dgrid{
+.container-grid{
     display: grid;
     background-color: rgba(152, 152, 152, 0.621);
     padding: 10px;
@@ -214,3 +214,23 @@ text-align: left;
     margin: 10px;
     border-radius: 10px;
 }
+
+.item{
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #333;
+    font-size: 1.2em;
+}
+
+.grid-bloco {
+    display: grid;
+    grid-template-columns: repeat(2, 40px);
+  }
+
+  .grid-inline {
+    display: inline-grid;
+    grid-template-columns: repeat(2, 40px);
+    vertical-align: middle;
+  }

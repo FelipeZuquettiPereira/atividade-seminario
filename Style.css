@@ -81,18 +81,18 @@ text-align: left;
 
 .bem{
     position:fixed;
-    top: 130px;
-    left:1300px;
+    top: 290px;
+    left:1500px;
     width: 270px;
     height: 700px;
 }
 
 .avo{
     position: absolute;
-    top: 130px;
-    left: 20px;
-    width: 270px;
-    height: 550px;
+    top: 190px;
+    left: 70px;
+    width: 370px;
+    height: 650px;
 }
 
 .dblock{
